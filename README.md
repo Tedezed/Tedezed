@@ -2,7 +2,7 @@
 |-|-|
 | | |
 
-|[<img src="https://raw.githubusercontent.com/Tedezed/aventurabinaria.es/master/images/mov2.gif" width="90%" height="90%">](https://www.thingiverse.com/thing:3552801)|[<img src="https://raw.githubusercontent.com/Tedezed/animatronic-guardian/master/img/ezgif-2-f56b24e0bb88.gif" width="90%" height="90%">](https://twitter.com/Zerrotajo/status/1118835087645319168)|
+|[<img src="https://raw.githubusercontent.com/Tedezed/aventurabinaria.es/master/images/mov2.gif" width="20%" height="20%">](https://www.thingiverse.com/thing:3552801)|[<img src="https://raw.githubusercontent.com/Tedezed/animatronic-guardian/master/img/ezgif-2-f56b24e0bb88.gif" width="20%" height="20%">](https://twitter.com/Zerrotajo/status/1118835087645319168)|
 |-|-|
 | | |
 
