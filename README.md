@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/-Python-3674A7?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-++-004482?style=flat-square&logo=C&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Sharp-00A500?style=flat-square&logo=C&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-JavaScript-EC0784?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/-Arduino-008184?style=flat-square&logo=Arduino&logoColor=ffffff)](https://www.arduino.cc/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff)](https://nginx.org/)
