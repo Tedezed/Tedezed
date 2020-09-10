@@ -30,7 +30,3 @@
 #### EXTRA Projects
 
 [![](https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif)](https://github.com/Tedezed/animatronic-guardian)
-
-<!---
-[![](https://img.shields.io/badge/-Steam-1B222C?style=flat-square&logo=Steam&logoColor=ffffff)](https://steamcommunity.com/id/zerrot)
--->
