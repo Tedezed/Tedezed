@@ -3,6 +3,13 @@
 |[<img src="https://raw.githubusercontent.com/tedezed/kubernetes-containers-tools/master/docs/img/Squirrel.png">](https://github.com/Tedezed/kubernetes-containers-tools/tree/master/squirrel)|[<img src="https://raw.githubusercontent.com/Tedezed/kubernetes-containers-tools/master/tools/images/liberty_start-stop.png">](https://github.com/Tedezed/kubernetes-containers-tools/tree/master/liberty)|
 |-|-|
 
+<!---
+https://github.com/anuraghazra/github-readme-stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tedezed&count_private=true&show_icons=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tedezed&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tedezed&repo=kubernetes-containers-tools)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 #### Some Tools
 
 [![](https://img.shields.io/badge/-Python-3674A7?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
