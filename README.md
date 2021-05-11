@@ -1,15 +1,19 @@
+<!--
 #### Some Projects
 [Kubernetes Containers Tools](https://github.com/Tedezed/kubernetes-containers-tools)
 |[<img src="https://raw.githubusercontent.com/tedezed/kubernetes-containers-tools/master/docs/img/Squirrel.png">](https://github.com/Tedezed/kubernetes-containers-tools/tree/master/squirrel)|[<img src="https://raw.githubusercontent.com/Tedezed/kubernetes-containers-tools/master/tools/images/liberty_start-stop.png">](https://github.com/Tedezed/kubernetes-containers-tools/tree/master/liberty)|
 |-|-|
+-->
 
-<!---
-https://github.com/anuraghazra/github-readme-stats
+<!--https://github.com/anuraghazra/github-readme-stats-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tedezed&count_private=true&show_icons=true&include_all_commits=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tedezed&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tedezed&repo=kubernetes-containers-tools)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!--
 #### Some Tools
 
 [![](https://img.shields.io/badge/-Python-3674A7?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
@@ -33,11 +37,11 @@ https://github.com/anuraghazra/github-readme-stats
 [![](https://img.shields.io/badge/-Blender-F4792B?style=flat-square&logo=Blender&logoColor=ffffff)](https://www.blender.org/)
 
 [![](https://img.shields.io/badge/-Arduino-008184?style=flat-square&logo=Arduino&logoColor=ffffff)](https://www.arduino.cc/)
-[![](https://img.shields.io/badge/-RepRap-009100?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5AkKDSEEoIYziAAAAWxJREFUSMfNl81Og0AUhc9AwBq3unDVhS0FH8GkYss08SlMfJIuXZu40SJQ36SPUpca3Sm2CR03BWOHn2LnEs8SMvPl3HuZMwB/1HngwJvaaFSe70Cs5QVWM9BhZGXQVMOA2PkgciRoqsFjlwbqhlYhNJXrK3bOA6cSmopPuqrK29kamg3crtPef7BqQ7OyT06ah2bO6w4c93s7Q1P17/PLzqQnAhAQQuVwMsYkjiZz1UIBQAh5z1/gM79Hdvi4d0fFL98/X28Ekd4+Xq4Ke5xXEqpeaz9HYps8YC5vO3KPk5VBDo5bmgzWE/pINXQmgw1NJwcvkhzw1zImB2tmLIOPD5/JwbOD+T/6nABgFNqM7K42PWWlIUHlejMopJDwQke564vIYtWxSOA6LxZZnShTBS0Fq4AXQXN7vLmQP9Xv+ShyWBl0+xAfAzy0K+9hPLThjresRv0/ijaWsY6Wubc+ahcw9xPMrue19vkGg6Y/sNuTfogAAAAASUVORK5CYII=&logoColor=ffffff)](https://twitter.com/Zerrotajo/status/764901395803869184)
+-->
 
 
 
 
-#### EXTRA Projects
+#### EXTRA Projects [![](https://img.shields.io/badge/-RepRap-009100?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5AkKDSEEoIYziAAAAWxJREFUSMfNl81Og0AUhc9AwBq3unDVhS0FH8GkYss08SlMfJIuXZu40SJQ36SPUpca3Sm2CR03BWOHn2LnEs8SMvPl3HuZMwB/1HngwJvaaFSe70Cs5QVWM9BhZGXQVMOA2PkgciRoqsFjlwbqhlYhNJXrK3bOA6cSmopPuqrK29kamg3crtPef7BqQ7OyT06ah2bO6w4c93s7Q1P17/PLzqQnAhAQQuVwMsYkjiZz1UIBQAh5z1/gM79Hdvi4d0fFL98/X28Ekd4+Xq4Ke5xXEqpeaz9HYps8YC5vO3KPk5VBDo5bmgzWE/pINXQmgw1NJwcvkhzw1zImB2tmLIOPD5/JwbOD+T/6nABgFNqM7K42PWWlIUHlejMopJDwQke564vIYtWxSOA6LxZZnShTBS0Fq4AXQXN7vLmQP9Xv+ShyWBl0+xAfAzy0K+9hPLThjresRv0/ijaWsY6Wubc+ahcw9xPMrue19vkGg6Y/sNuTfogAAAAASUVORK5CYII=&logoColor=ffffff)](https://twitter.com/Zerrotajo/status/764901395803869184)
 
 [![](https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif)](https://github.com/Tedezed/animatronic-guardian)
