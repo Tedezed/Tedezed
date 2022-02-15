@@ -8,7 +8,7 @@
 - I'm a SRE in 🇪🇸 Spain
 - Working from 🏘 at CARTO
 - I’m learning C++ 🌱
-- I enjoy coding for fun and making projects 🛠. 
+- I enjoy coding for fun and making personal projects 🛠. 
 
 ### Details
 
