@@ -5,10 +5,17 @@
 <a style="float: right;" href="https://www.thingiverse.com/thing:3552801">
     <img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif">
 </a>
-<table cellpadding="0" cellspacing="0" border="0" style="float: right; max-width:150px;">
+
+## Hi! 👋 I'm [Juan Manuel](https://www.aventurabinaria.es/) !
+
+- I'm a SRE in 🇪🇸 Spain
+- Working from 🏘 at CARTO
+- I’m learning C++ 🌱
+- I enjoy coding for fun and making projects 🛠. 
+
+<table cellpadding="0" cellspacing="0" border="0">
 <tr>
-    <th>
-        <marquee  behavior="scroll" direction="left">        
+    <th>      
             <img src="https://img.shields.io/badge/-Python-3674A7?style=flat-square&logo=Python&logoColor=ffffff">
             <img src="https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white">
             <img src="https://img.shields.io/badge/-++-004482?style=flat-square&logo=C&logoColor=ffffff">
@@ -37,15 +44,6 @@
             <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white">
             <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&&logo=postgresql&logoColor=white">
             <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white">
-        </marquee>
     </th>
 </tr>
 </table> 
-
-## Hi! 👋 I'm [Juan Manuel](https://www.aventurabinaria.es/) !
-
-- I'm a SRE in 🇪🇸 Spain
-- Working from 🏘 at CARTO
-- I’m learning C++ 🌱
-- I enjoy coding for fun and making projects 🛠. 
-
