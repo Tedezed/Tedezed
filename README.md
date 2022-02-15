@@ -15,8 +15,6 @@
     <a style="float: right;" href="https://www.thingiverse.com/thing:3552801">
     <img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif">
 </a>
-</details>
-
 <table cellpadding="0" cellspacing="0" border="0">
 <tr>
     <th>      
@@ -51,3 +49,5 @@
     </th>
 </tr>
 </table> 
+</details>
+
