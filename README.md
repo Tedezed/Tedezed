@@ -10,8 +10,6 @@
 - I’m learning C++ 🌱
 - I enjoy coding for fun and making projects 🛠. 
 
----
-
 ### Details
 
 <details>
