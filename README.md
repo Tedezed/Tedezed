@@ -2,9 +2,6 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Zerrotajo) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/zerrot) [![](https://img.shields.io/badge/-Thingiverse-248BFB?style=for-the-badge&logo=Thingiverse&logoColor=ffffff)](https://www.thingiverse.com/tedezed/designs)
 
-<a style="float: right;" href="https://www.thingiverse.com/thing:3552801">
-    <img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif">
-</a>
 
 ## Hi! 👋 I'm [Juan Manuel](https://www.aventurabinaria.es/) !
 
@@ -12,6 +9,13 @@
 - Working from 🏘 at CARTO
 - I’m learning C++ 🌱
 - I enjoy coding for fun and making projects 🛠. 
+
+<details>
+    <summary>Details</summary>
+    <a style="float: right;" href="https://www.thingiverse.com/thing:3552801">
+    <img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif">
+</a>
+</details>
 
 <table cellpadding="0" cellspacing="0" border="0">
 <tr>
