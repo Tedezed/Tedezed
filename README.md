@@ -10,6 +10,10 @@
 - I’m learning C++ 🌱
 - I enjoy coding for fun and making projects 🛠. 
 
+---
+
+### Details
+
 <details>
     <summary>Technologies</summary>
     <table cellpadding="0" cellspacing="0" border="0">
