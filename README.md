@@ -3,12 +3,13 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Zerrotajo) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/zerrot) [![](https://img.shields.io/badge/-Thingiverse-248BFB?style=for-the-badge&logo=Thingiverse&logoColor=ffffff)](https://www.thingiverse.com/tedezed/designs)
 
 
-## Hi! 👋 I'm [Juan Manuel](https://www.aventurabinaria.es/) !
+## Hi there! 👋
 
 - I'm a SRE in 🇪🇸 Spain
 - Working from 🏘 at CARTO
 - I’m learning C++ 🌱
-- I enjoy coding for fun and making personal projects 🛠. 
+- I enjoy coding for fun and making personal projects 🛠
+- My blog is [aventurabinaria.es](https://www.aventurabinaria.es/)
 
 ### Details
 
@@ -19,8 +20,8 @@
         <th>      
                 <img src="https://img.shields.io/badge/-Python-3674A7?style=flat-square&logo=Python&logoColor=ffffff">
                 <img src="https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white">
-                <img src="https://img.shields.io/badge/-++-004482?style=flat-square&logo=C&logoColor=ffffff">
-                <img src="https://img.shields.io/badge/-Sharp-00A500?style=flat-square&logo=C&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
+                <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white">
                 <img src="https://img.shields.io/badge/-JavaScript-EC0784?style=flat-square&logo=javascript&logoColor=ffffff">
                 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff">
                 <img src="https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff">
@@ -28,7 +29,7 @@
                 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white">
                 <img src="https://img.shields.io/badge/-OpenStack-EA2046?style=flat-square&logo=openstack&logoColor=ffffff">
                 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff">
-                <img src="https://img.shields.io/badge/-istio-466bb0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDMyMCAzMjAiPjxnIGlkPSJsb2dvIiBmaWxsPSIjZmZmIj48cG9seWdvbiBpZD0iaHVsbCIgcG9pbnRzPSI4MCAyNTAgMjQwIDI1MCAxNDAgMjgwIDgwIDI1MCIvPjxwb2x5Z29uIGlkPSJtYWluc2FpbCIgcG9pbnRzPSI4MCAyNDAgMTQwIDIzMCAxNDAgMTIwIDgwIDI0MCIvPjxwb2x5Z29uIGlkPSJoZWFkc2FpbCIgcG9pbnRzPSIxNTAgMjMwIDI0MCAyNDAgMTUwIDQwIDE1MCAyMzAiLz48L2c+PC9zdmc+&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/-Istio-466bb0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDMyMCAzMjAiPjxnIGlkPSJsb2dvIiBmaWxsPSIjZmZmIj48cG9seWdvbiBpZD0iaHVsbCIgcG9pbnRzPSI4MCAyNTAgMjQwIDI1MCAxNDAgMjgwIDgwIDI1MCIvPjxwb2x5Z29uIGlkPSJtYWluc2FpbCIgcG9pbnRzPSI4MCAyNDAgMTQwIDIzMCAxNDAgMTIwIDgwIDI0MCIvPjxwb2x5Z29uIGlkPSJoZWFkc2FpbCIgcG9pbnRzPSIxNTAgMjMwIDI0MCAyNDAgMTUwIDQwIDE1MCAyMzAiLz48L2c+PC9zdmc+&logoColor=ffffff">
                 <img src="https://img.shields.io/badge/-Terraform-5244DD?style=flat-square&logo=Terraform&logoColor=ffffff">
                 <img src="https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=Ansible&logoColor=ffffff">
                 <img src="https://img.shields.io/badge/-Gitlab-382863?style=flat-square&logo=Gitlab&logoColor=ffffff">
@@ -52,5 +53,6 @@
 
 <details>
     <summary>Personal</summary>
-    <a href="https://www.thingiverse.com/thing:3552801"><img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif"> Click on me!</a>
+    <a href="https://www.thingiverse.com/thing:3552801"><img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif">
+    <p>Guardian Project</p></a>
 </details>
