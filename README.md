@@ -5,8 +5,8 @@
 
 ## Hi there! 👋
 
-- I'm a SRE in 🇪🇸 Spain
-- Working from 🏘 at CARTO
+- I live in 🇪🇸 Spain
+- Working as SRE from 🏘 at CARTO
 - I’m learning C++ 🌱
 - I enjoy coding for fun and making personal projects 🛠
 - My blog is [aventurabinaria.es](https://www.aventurabinaria.es/)
