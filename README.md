@@ -1,6 +1,6 @@
 <!-- https://github.com/Ileriayo/markdown-badges/blob/master/README.md -->
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Zerrotajo) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/zerrot) [![](https://img.shields.io/badge/-Thingiverse-248BFB?style=for-the-badge&logo=Thingiverse&logoColor=ffffff)](https://www.thingiverse.com/tedezed/designs)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Zerrotajo) [![](https://img.shields.io/badge/-Thingiverse-248BFB?style=for-the-badge&logo=Thingiverse&logoColor=ffffff)](https://www.thingiverse.com/tedezed/designs)
 
 
 ## Hi there! 👋
