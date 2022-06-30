@@ -56,5 +56,6 @@
 
 <details>
     <summary>Personal</summary>
-    <a href="https://www.thingiverse.com/thing:3552801"><img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif">Guardian Project</a>
+    <a href="https://www.thingiverse.com/thing:3552801"><img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif"></a>
+    <a href="https://www.thingiverse.com/thing:3552801"><p>Guardian Project</p></a>
 </details>
