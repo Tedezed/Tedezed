@@ -2,7 +2,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Zerrotajo) [![](https://img.shields.io/badge/-Thingiverse-248BFB?style=for-the-badge&logo=Thingiverse&logoColor=ffffff)](https://www.thingiverse.com/tedezed/designs)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/zerrot)
 
-## Hola! 👋
+## ¡Hola! 👋
 
 <!--<img src="https://media4.giphy.com/media/11ZSwQNWba4YF2/giphy.gif?cid=ecf05e47eil8j5effy3n1pnifilkdr9gc9ewrgg7dcw7ygil&rid=giphy.gif&ct=g" align="right" width="12%" height="12%">-->
 
