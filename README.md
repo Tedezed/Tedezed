@@ -1,5 +1,6 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Zerrotajo) [![](https://img.shields.io/badge/-Thingiverse-248BFB?style=for-the-badge&logo=Thingiverse&logoColor=ffffff)](https://www.thingiverse.com/tedezed/designs)
+[![Itch.io](https://img.shields.io/badge/-itch.io-FF516E?style=for-the-badge&logo=itch.io&logoColor=ffffff)](https://tedezed.itch.io)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/zerrot)
 
 ## ¡Hola! 👋
@@ -58,4 +59,5 @@
     <summary>Personal</summary>
     <a href="https://www.thingiverse.com/thing:3552801"><img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif"></a>
     <a href="https://www.thingiverse.com/thing:3552801"><p>Guardian Project</p></a>
+    <a href="https://itch.io/embed-upload/6191414?color=333333"><p>Luck ain't your landlord</p></a>
 </details>
