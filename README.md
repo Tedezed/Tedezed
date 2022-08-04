@@ -18,6 +18,7 @@
 
 <details>
     <summary>Technologies</summary>
+    <ul dir="auto">
     <table cellpadding="0" cellspacing="0" border="0">
     <tr>
         <th>      
@@ -53,11 +54,14 @@
         </th>
     </tr>
     </table>
+    </ul>
 </details>
 
 <details>
     <summary>Personal</summary>
     <a href="https://www.thingiverse.com/thing:3552801"><img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif"></a>
-    <a href="https://www.thingiverse.com/thing:3552801"><p>Guardian Project</p></a>
-    <a href="https://itch.io/embed-upload/6191414?color=333333"><p>Luck ain't your landlord</p></a>
+    <ul dir="auto">
+        <li><a href="https://www.thingiverse.com/thing:3552801">Guardian Project</a></li>
+        <li><a href="https://itch.io/embed-upload/6191414?color=333333">Luck ain't your landlord</a></li>
+    </ul>
 </details>
