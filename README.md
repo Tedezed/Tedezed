@@ -62,6 +62,6 @@
     <a href="https://www.thingiverse.com/thing:3552801"><img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif"></a>
     <ul dir="auto">
         <li><a href="https://www.thingiverse.com/thing:3552801">Guardian Project</a></li>
-        <li><a href="https://itch.io/embed-upload/6191414?color=333333">Luck ain't your landlord</a></li>
+        <li><a href="https://tedezed.itch.io/luck-aint-your-landlord">Luck ain't your landlord</a></li>
     </ul>
 </details>
