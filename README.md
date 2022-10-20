@@ -9,11 +9,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=tedezed&count_private=true&show_icons=true&include_all_commits=true" alt="tedezed" align="right" />
 
-- I live in 🇪🇸 Spain
-- Working as SRE from 🏘 at CARTO
-- I’m learning C++ and C# 🌱
-- I enjoy coding for fun and making personal projects 🛠
-- My blog is [aventurabinaria.es](https://www.aventurabinaria.es/)
+- 🏠 I live in Spain 🇪🇸.
+- 👨‍💻 Working as SRE from 🏘 at CARTO.
+- 🌱 I’m learning C++ and C#.
+- 🛠 I enjoy coding for fun and making personal projects.
+- 📝 My blog is [aventurabinaria.es](https://www.aventurabinaria.es/).
 
 ### Details
 
@@ -62,7 +62,7 @@
     <summary>Bonus</summary>
     <a href="https://www.thingiverse.com/thing:3552801"><img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif"></a>
     <ul dir="auto">
-        <li><a href="https://www.thingiverse.com/thing:3552801">Guardian Project</a></li>
-        <li><a href="https://tedezed.itch.io/luck-aint-your-landlord">Luck ain't your landlord</a></li>
+        <li><a href="https://www.thingiverse.com/thing:3552801">⚙️ Guardian Project</a></li>
+        <li><a href="https://tedezed.itch.io/luck-aint-your-landlord">🎮 Luck ain't your landlord</a></li>
     </ul>
 </details>
