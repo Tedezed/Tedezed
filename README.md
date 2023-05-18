@@ -7,7 +7,7 @@
 
 ## ¡Hola! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=tedezed&count_private=true&show_icons=true&include_all_commits=true" alt="tedezed" align="right" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=tedezed&count_private=true&show_icons=true&include_all_commits=true" alt="tedezed" align="right" /> -->
 
 - 👨‍💻 Working as SRE from 🏘 at CARTO.
 - 🌱 I’m learning C++ and C#.
