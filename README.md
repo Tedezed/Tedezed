@@ -17,7 +17,7 @@
 ### Details
 
 <details>
-    <summary>Technologies</summary>
+    <summary>🟥 Technologies</summary>
     <ul dir="auto">
     <table cellpadding="0" cellspacing="0" border="0">
     <tr>
@@ -58,7 +58,7 @@
 </details>
 
 <details>
-    <summary>Bonus</summary>
+    <summary>🟩 Bonus</summary>
     <a href="https://www.thingiverse.com/thing:3552801"><img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif"></a>
     <ul dir="auto">
         <li><a href="https://www.thingiverse.com/thing:3552801">⚙️ Guardian Project</a></li>
