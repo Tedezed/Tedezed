@@ -1,5 +1,6 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/tdjm)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zerrotchannel) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Zerrotajo) 
 [![Thingiverse](https://img.shields.io/badge/-Thingiverse-248BFB?style=for-the-badge&logo=Thingiverse&logoColor=ffffff)](https://www.thingiverse.com/tedezed/designs)
 [![Itch.io](https://img.shields.io/badge/-itch.io-FF516E?style=for-the-badge&logo=itch.io&logoColor=ffffff)](https://tedezed.itch.io)
