@@ -68,7 +68,6 @@
 
 <details>
     <summary>🎮 Game Jams</summary>
-    <a href="https://www.thingiverse.com/thing:3552801"><img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif"></a>
     <ul dir="auto">
         <li><a href="https://imon-spartan.itch.io/roguetime">🎮 Roguetime</a></li>
         <li><a href="https://tedezed.itch.io/luck-aint-your-landlord">🎮 Luck ain't your landlord</a></li>
