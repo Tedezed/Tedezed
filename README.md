@@ -56,6 +56,14 @@
 </details>
 
 <details>
+    <summary>🟧 Game Jams</summary>
+    <ul dir="auto">
+        <li><a href="https://imon-spartan.itch.io/roguetime">🎮 Roguetime</a></li>
+        <li><a href="https://tedezed.itch.io/luck-aint-your-landlord">🎮 Luck ain't your landlord</a></li>
+    </ul>
+</details>
+
+<details>
     <summary>🟩 Bonus</summary>
     <a href="https://www.thingiverse.com/thing:3552801"><img src="https://raw.githubusercontent.com/Tedezed/Tedezed/master/img/guardian.gif"></a>
     <ul dir="auto">
@@ -63,13 +71,5 @@
         <li><a href="https://www.thingiverse.com/thing:5865149">🔭 James Webb Lamp</a></li>
         <li><a href="https://www.thingiverse.com/thing:6367171">👨‍💻 Standing desk project</a></li>
         <li>🚗 Spare parts: <a href="https://www.thingiverse.com/thing:2378977">thing:2378977</a>, <a href="https://www.thingiverse.com/thing:1917715">thing:1917715</a>, <a href="https://www.thingiverse.com/thing:2046330">thing:2046330</a></li>
-    </ul>
-</details>
-
-<details>
-    <summary>🎮 Game Jams</summary>
-    <ul dir="auto">
-        <li><a href="https://imon-spartan.itch.io/roguetime">🎮 Roguetime</a></li>
-        <li><a href="https://tedezed.itch.io/luck-aint-your-landlord">🎮 Luck ain't your landlord</a></li>
     </ul>
 </details>
