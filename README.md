@@ -58,6 +58,7 @@
 <details>
     <summary>🟧 Game Jams</summary>
     <ul dir="auto">
+        <li><a href="https://snakebite-studio.itch.io/beneaththemask">🎮 Beneath The Mask</a></li>
         <li><a href="https://imon-spartan.itch.io/roguetime">🎮 Roguetime</a></li>
         <li><a href="https://tedezed.itch.io/luck-aint-your-landlord">🎮 Luck ain't your landlord</a></li>
     </ul>
