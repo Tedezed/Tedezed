@@ -6,8 +6,9 @@
 ## ¡Hola! 👋
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=tedezed&count_private=true&show_icons=true&include_all_commits=true" alt="tedezed" align="right" /> -->
+<img src="img/langs.svg" alt="Most used languages" align="right" />
 
-- 👨‍💻 Working as SRE
+- 👨‍💻 SRE & Indie game dev
 - 🌱 I’m learning C++ and GDScript.
 - 🛠 I enjoy coding for fun and making personal projects.
 - 📝 My blog is [aventurabinaria.es](https://www.aventurabinaria.es/).
