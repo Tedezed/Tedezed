@@ -12,6 +12,8 @@ from html import escape
 TOKEN = os.environ["GH_TOKEN"]
 OUT = os.path.join(os.path.dirname(__file__), "..", "img", "langs.svg")
 TOP = 5
+# Dark outline painted under the glyphs so light text stays readable on light and dark themes.
+OUTLINE = 'stroke="#6e7681" stroke-opacity="0.4" stroke-width="3" stroke-linejoin="round" paint-order="stroke"'
 
 # Official GitHub linguist colors for the usual suspects; anything else is grey.
 COLORS = {
@@ -50,15 +52,15 @@ def render(totals):
     w, rows = 340, (len(items) + 1) // 2
     h = 85 + rows * 24
     parts = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">',
-             f'<rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="8" fill="#0d1117" stroke="#30363d"/>',
-             '<text x="20" y="32" fill="#e6edf3" font-family="Segoe UI,Ubuntu,sans-serif" '
+             f'<rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="8" fill="none" stroke="#8b949e" stroke-opacity="0.4"/>',
+             f'<text x="20" y="32" fill="#e6edf3" {OUTLINE} font-family="Segoe UI,Ubuntu,sans-serif" '
              'font-size="16" font-weight="600">Most Used Languages</text>']
     x = 20.0
     for name, pct in items:
         bw = (w - 40) * pct / 100
         parts.append(f'<rect x="{x:.2f}" y="48" width="{bw:.2f}" height="8" fill="{COLORS.get(name, "#8b949e")}"/>')
         x += bw
-    font = 'font-family="Segoe UI,Ubuntu,sans-serif" font-size="12"'
+    font = f'{OUTLINE} font-family="Segoe UI,Ubuntu,sans-serif" font-size="12"'
     for i, (name, pct) in enumerate(items):
         cx, cy = 20 + (i % 2) * 160, 80 + (i // 2) * 24
         parts.append(f'<circle cx="{cx + 5}" cy="{cy - 4}" r="5" fill="{COLORS.get(name, "#8b949e")}"/>'
