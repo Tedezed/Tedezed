@@ -13,7 +13,7 @@ TOKEN = os.environ["GH_TOKEN"]
 OUT = os.path.join(os.path.dirname(__file__), "..", "img", "langs.svg")
 TOP = 5
 # Dark outline painted under the glyphs so light text stays readable on light and dark themes.
-OUTLINE = 'stroke="#6e7681" stroke-opacity="0.4" stroke-width="3" stroke-linejoin="round" paint-order="stroke"'
+OUTLINE = 'stroke="#212830" stroke-opacity="0.5" stroke-width="1" stroke-linejoin="round" paint-order="stroke"'
 
 # Official GitHub linguist colors for the usual suspects; anything else is grey.
 COLORS = {
