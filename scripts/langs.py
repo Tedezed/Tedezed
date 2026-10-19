@@ -53,7 +53,7 @@ def render(totals):
     h = 85 + rows * 24
     parts = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">',
              f'<rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="8" fill="none" stroke="#8b949e" stroke-opacity="0.4"/>',
-             f'<text x="20" y="32" fill="#e6edf3" {OUTLINE} font-family="Segoe UI,Ubuntu,sans-serif" '
+             f'<text x="20" y="32" fill="#676f77" {OUTLINE} font-family="Segoe UI,Ubuntu,sans-serif" '
              'font-size="16" font-weight="600">Most Used Languages</text>']
     x = 20.0
     for name, pct in items:
@@ -64,7 +64,7 @@ def render(totals):
     for i, (name, pct) in enumerate(items):
         cx, cy = 20 + (i % 2) * 160, 80 + (i // 2) * 24
         parts.append(f'<circle cx="{cx + 5}" cy="{cy - 4}" r="5" fill="{COLORS.get(name, "#8b949e")}"/>'
-                     f'<text x="{cx + 16}" y="{cy}" fill="#c9d1d9" {font}>{escape(name)}</text>'
+                     f'<text x="{cx + 16}" y="{cy}" fill="#676f77" {font}>{escape(name)}</text>'
                      f'<text x="{cx + 140}" y="{cy}" fill="#8b949e" text-anchor="end" {font}>{pct:.1f}%</text>')
     parts.append('</svg>')
     return "\n".join(parts) + "\n"
